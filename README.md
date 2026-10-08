@@ -14,9 +14,9 @@
 
 ## 📖 About
 
-This repository contains the programs and practice work I wrote to Understand the core fundamentals of Languages.
+This repository contains the programs and practice work I wrote to understand the core fundamentals of programming languages.
 
-The goal: Build strong programming fundamentals and problem-solving skills for placements.
+The goal: build strong programming fundamentals and problem-solving skills for placements.
 
 > [!NOTE]
 > **The `Myexe.exe` files in the C and C++ folders are just compiled output from my practice programs. They are kept for learning purposes only and are not part of any application or software release.**
@@ -85,8 +85,10 @@ On Windows, run `output` instead of `./output`.
 
 ## 🚀 Getting Started
 
+```bash
 git clone https://github.com/Neelvidar/Pre_Placement_Activity.git
 cd Pre_Placement_Activity
+```
 
 ## 🗺️ Roadmap
 
@@ -96,7 +98,7 @@ cd Pre_Placement_Activity
 ## 👨‍💻 Author
 
 **Neel Vidar**
-MCA Student 
+MCA Student, MES IMCC, Pune
 
 [![GitHub](https://img.shields.io/badge/GitHub-Neelvidar-181717?style=for-the-badge&logo=github)](https://github.com/Neelvidar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neel%20Vidar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-vidar)
