@@ -18,6 +18,9 @@ This repository contains the programs and practice work I wrote to Understand th
 
 The goal: Build strong programming fundamentals and problem-solving skills for placements.
 
+> [!NOTE]
+> **The `Myexe.exe` files in the C and C++ folders are just compiled output from my practice programs. They are kept for learning purposes only and are not part of any application or software release.**
+
 ## 📂 Repository Structure
 
 ```
@@ -32,18 +35,30 @@ Pre_Placement_Activity/
 ## 🧠 Topics Covered
 
 ### 🔹 C Programming
-- Core C fundamentals and logic building
-- Programs from the training sessions
+- Basics: Hello World, primitive data types, type modifiers and `sizeof`
+- Selection: if/else and switch-case
+- Arrays (1D arrays and array programs)
+- Pointers: pointer basics, pointer arithmetic, array-pointer relationship, array of pointers
+- Functions (user-defined functions and function demos)
+- Structures and unions
 
 ### 🔹 C++ Programming
 - Classes and objects
-- Access specifiers (private, public, protected)
-- Virtual functions and polymorphism
+- Constructors
+- Access specifiers (public, private)
+- Encapsulation
+- Static members
+- Procedural vs object-oriented programming, `this` pointer
+- Inheritance: single, multiple and multilevel
+- Virtual functions and pure virtual functions (polymorphism)
 
 ### 🔹 Java Programming
-- Sequence, selection and iteration
-- OOP concepts and single-level inheritance
+- Basics: sequence, selection (if/else) and iteration (loops)
+- Constructors and encapsulation
+- Inheritance (single-level)
+- Abstract classes
 - Interfaces
+- Exception handling
 - Multithreading (ThreadDemo series)
 
 ## ▶️ How to Run
@@ -78,14 +93,12 @@ cd Pre_Placement_Activity
 ## 🗺️ Roadmap
 
 - [x] C, C++ and Java practice programs
-- [ ] Add Data Structures programs
-- [ ] Add problem-solving and coding practice sets
-- [ ] Add mini projects
+- [ ] Data Structures programs
 
 ## 👨‍💻 Author
 
 **Neel Vidar**
-MCA Student, MES IMCC, Pune
+MCA Student 
 
 [![GitHub](https://img.shields.io/badge/GitHub-NeelVidar64-181717?style=for-the-badge&logo=github)](https://github.com/NeelVidar64)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neel%20Vidar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-vidar)
