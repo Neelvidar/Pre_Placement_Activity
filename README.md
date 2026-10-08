@@ -85,10 +85,8 @@ On Windows, run `output` instead of `./output`.
 
 ## 🚀 Getting Started
 
-```bash
-git clone https://github.com/NeelVidar64/Pre_Placement_Activity.git
+git clone https://github.com/Neelvidar/Pre_Placement_Activity.git
 cd Pre_Placement_Activity
-```
 
 ## 🗺️ Roadmap
 
@@ -100,7 +98,7 @@ cd Pre_Placement_Activity
 **Neel Vidar**
 MCA Student 
 
-[![GitHub](https://img.shields.io/badge/GitHub-NeelVidar64-181717?style=for-the-badge&logo=github)](https://github.com/NeelVidar64)
+[![GitHub](https://img.shields.io/badge/GitHub-Neelvidar-181717?style=for-the-badge&logo=github)](https://github.com/Neelvidar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neel%20Vidar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-vidar)
 
 ---
