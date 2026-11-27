@@ -1,0 +1,13 @@
+package com.marvellous.RequestParams;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RequestParamsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
